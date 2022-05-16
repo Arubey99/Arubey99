@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at Bilkent University.
-- 🌱 I’m currently learning java.
-- 💻 I'm currently taking CS-101.
+- 💻 I’m currently studying at Bilkent University.
 - 💬 Ask me about something.
 - 📫 How to reach me: arda.ugurlu@ug.bilkent.edu.tr
 - ⚡ Fun fact: I love watching TV series.
