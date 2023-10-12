@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 💻 I’m currently studying at Bilkent University.
+- 💻 I’m currently studying advanced computer science master at Sussex University.
 - 💬 Ask me about something.
-- 📫 How to reach me: arda.ugurlu@ug.bilkent.edu.tr
-- ⚡ Fun fact: I love watching TV series.
+- 📫 How to reach me: aru.ugurlu@gmail.com
+- ⚡ Fun fact: I love watching F1.
 <!--
 **Arubey99/Arubey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
