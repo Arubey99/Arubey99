@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I’m currently studying advanced computer science master at Sussex University.
+- 💻 I’m currently working at Fremantle in AI and Automation.
 - 💬 Ask me about something.
 - 📫 How to reach me: aru.ugurlu@gmail.com
 - ⚡ Fun fact: I love watching F1.
